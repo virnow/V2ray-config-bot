@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wegt https://github.com/virnow/V2ray-config-bot/archive/refs/heads/main.zip
+wget https://github.com/virnow/V2ray-config-bot/archive/refs/heads/main.zip
 tar -xvf main.zip
 cd V2ray-config-bot-main
 pip3 install -r requirements.txt

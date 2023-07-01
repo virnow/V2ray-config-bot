@@ -1,6 +1,7 @@
 #!/bin/bash
 
 wget https://github.com/virnow/V2ray-config-bot/archive/refs/heads/main.zip
+sudo apt-get install unzip
 unzip main.zip
 cd V2ray-config-bot-main
 pip3 install -r V2ray-config-bot-main/requirements.txt

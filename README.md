@@ -43,5 +43,5 @@ Finally, run the main.py and update.py files!
 </div>
 
 # Resources
-- [@Python3_channel](https://t.me/python3_channel)
+- [@WebinoSource](https://t.me/+CwSgGpietnk0MDFk)
 - [V2ray Collector](https://github.com/yebekhe/TelegramV2rayCollector)
